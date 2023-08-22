@@ -1,0 +1,24 @@
+/****** layout*****/
+
+h1, h2, h3 {
+
+    color: rgb(167, 8, 47);
+}
+
+.text-m {
+
+    color: midnightblue;
+}
+
+.text-h {
+
+    color: hotpink;
+}
+
+.fs-20{ 
+    font-size: 20px;
+}
+
+#first-article {
+    font-size: 20px;
+}
