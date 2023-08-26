@@ -1,0 +1,60 @@
+/***layout****/
+
+.container {
+    width: 1000px;
+    margin-top: 250px;
+}
+
+.box {
+    background-color: rgb(203, 191, 191);
+    height: 70px;
+    margin-bottom: 2px;
+}
+.box-bir {
+    background-color: rgb(40, 201, 234);
+    height: 100px;
+    width: 348px; 
+    float: right;
+    margin-right: 1px;
+
+}
+.box-iki {
+    background-color: rgb(14, 186, 163);
+    height: 100px;
+    width: 349px;  
+    float: right;
+
+}
+.box-uc {
+    background-color: rgb(76, 142, 241);
+    height: 100px;
+    width: 300px;  
+    float: right;
+    margin-left: 1px;
+    margin-right: 1px;
+
+}
+.left-bar{
+    widows: 200px;
+    float: left;
+}
+.right-bar {
+    float: right;
+}
+.kutu {
+    bottom: 50px;
+    width: 50px;
+    height: 30px;
+    background-color: rgb(148, 131, 131);
+}
+.yakin {
+    margin-top: 15px;
+
+}
+.center {
+    margin: 260px;
+}
+
+.abc {
+margin-top: 9px;
+}
